@@ -32,12 +32,6 @@ struct PostUserDetailsHeader: View {
         
     }
     
-    
-    
-    
-    //Int(Date().timeIntervalSince1970)
-    
-    
 }
 
 func handleAge(post: PostModel) -> Int {
