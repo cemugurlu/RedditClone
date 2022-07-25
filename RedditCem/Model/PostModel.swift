@@ -55,16 +55,6 @@ extension PostModel {
         self.thumbnailURL = dao.thumbnailURL
         
     }
-    
-    
-//        func getElapsedTime(dao: PostDetailDao) {
-//            let elapsedTime = Int(Date().timeIntervalSince1970) - dao.createdUTC
-//            print("AHDAAHUHUAUHAUDUUASDGF\(elapsedTime)")
-//    
-//        }
-    
-
-    
 }
 
 
