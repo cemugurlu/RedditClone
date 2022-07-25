@@ -11,7 +11,9 @@ import SwiftUI
 struct RedditCemApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PostListView()
+            
+            }
         }
     }
-}
+
